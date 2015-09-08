@@ -15,3 +15,5 @@ before_script:
         - uname -a
         - printenv
         - pip list
+script:
+        - date

@@ -17,3 +17,4 @@ before_script:
         - pip list
 script:
         - date
+        - ls -al
