@@ -21,7 +21,7 @@ before_script:
 script:
     - date
     - ls -al
-    - make collatz-tests
+      #- make collatz-tests
     - ls -al
     - make Collatz.html
     - ls -al
@@ -29,4 +29,4 @@ script:
     - ls -al
     - make test
     - ls -al
-    - make check
+    # - make check
