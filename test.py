@@ -1,1 +1,1 @@
-print('test dev');
+print('test');
